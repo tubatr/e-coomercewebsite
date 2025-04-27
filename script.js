@@ -15,8 +15,8 @@ const products = [
     { name: "Divit Seti", price: 999},
     { name: "Bohem Kilim", price: 400 },
     { name: "Etnik Desen Kilim", price: 1999 },
-    { name: "Kuyruklu Piyano", price:11999999},
-    { name: "Fotoğraf Makinesi", price:59999}
+    { name: "Kuyruklu Piyano", price:9999},
+    { name: "Fotoğraf Makinesi", price:3999}
 ];
 
 const addToCartBtns = document.querySelectorAll(".add-to-cart");
